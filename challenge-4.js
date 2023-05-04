@@ -1,4 +1,6 @@
-/*FIX the Broken Code!!*/
+/*FIX the Broken Code!!
+
+*/
 
 // Below is the broken code:
 const numbers = [5, 3, 9, 30];
